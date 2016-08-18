@@ -1,0 +1,10 @@
+exportPattern("^[[:alpha:]]+")
+import(glmnet)
+import(stats)
+import(utils)
+import(Matrix)
+export(predictGA)
+export(extractSites)
+
+
+
