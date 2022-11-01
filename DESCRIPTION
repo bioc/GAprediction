@@ -3,7 +3,7 @@ Date: 2016-07-04
 Type: Package
 Title: Prediction of gestational age with Illumina HumanMethylation450
         data
-Version: 1.24.0
+Version: 1.25.0
 Author: Jon Bohlin
 Authors@R: c(person("Jon", "Bohlin", role=c("cre"),
         email="jon.bohlin@gmail.com"))
